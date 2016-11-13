@@ -24,6 +24,7 @@ class ViewController: UIViewController {
     @IBAction func botaoBemVindo(_ sender: Any) {
         
         //adicionando comentario para mudar o codigo no git
+        //teste2
         logo.isHidden = false
         bg.isHidden = false
         labelBemVindo.isHidden = true
